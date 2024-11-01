@@ -1,6 +1,6 @@
 # SneakerBot
 
-[![build, lint, test, deploy](https://github.com/samc621/SneakerBot/actions/workflows/build_lint_deploy.yml/badge.svg)](https://github.com/samc621/SneakerBot/actions/workflows/build_lint_deploy.yml)
+[![build, lint, test, deploy](https://github.com/feng752/SneakerBot/actions/workflows/build_lint_deploy.yml/badge.svg)](https://github.com/feng752/SneakerBot/actions/workflows/build_lint_deploy.yml)
 
 This bot uses Node.js and Puppeteer to automate the checkout on various sneaker websites. It currently works on:
 
